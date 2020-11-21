@@ -77,6 +77,8 @@ web interface url path, as well as the datasource url.
 
 ### Screenshots
 
-![Alt text](/screenshots/mainpage.jpg?raw=true "Main")
-![Alt text](/screenshots/search.jpg?raw=true "Search")
-![Alt text](/screenshots/cart.jpg?raw=true "Cart")
+![ui](/screenshots/mainpage.jpg?raw=true "Main")
+
+![ui](/screenshots/search.jpg?raw=true "Search")
+
+![ui](/screenshots/cart.jpg?raw=true "Cart")
