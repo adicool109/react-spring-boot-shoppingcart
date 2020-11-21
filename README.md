@@ -65,3 +65,18 @@ jdbc:h2:mem:shoppingcartdb
 
 In `/src/main/resources/application.properties` file it is possible to change both
 web interface url path, as well as the datasource url.
+
+### Bugs: to be fixed in the next release
+
+* Login/authentication works however the redirect is not working, hence login is currently disabled
+* Cart Link doesnot show the number of products added to the cart i.e. Cart(1)
+
+### Later enhancements:
+
+* Images of the actual product to be hosted in firebase
+
+### Screenshots
+
+![Alt text](/screenshots/mainpage.jpg?raw=true "Main")
+![Alt text](/screenshots/search.jpg?raw=true "Search")
+![Alt text](/screenshots/cart.jpg?raw=true "Cart")
