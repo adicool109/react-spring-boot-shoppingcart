@@ -15,7 +15,7 @@ Folder **src/resources/** contains config files for **shopping-cart** Spring Boo
 
 * **src/resources/application.properties** - main configuration file. Here it is possible to change the port number.
 
-**frontend** contains the react js files
+* **frontend** contains the react js files
 
 ### Maven Wrapper
 
