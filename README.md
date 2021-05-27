@@ -2,7 +2,7 @@
 
 ## About
 
-This is a demo project for practicing Spring + React. The idea was to build some basic shopping cart web app.
+This is a demo project for Spring + React. The idea was to build some basic shopping cart web app.
 
 It was made using **Spring Boot**, **React**, **Spring Data JPA**, **Spring Data REST**. 
 Database is in memory **H2**.
