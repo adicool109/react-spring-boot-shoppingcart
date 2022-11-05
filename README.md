@@ -26,6 +26,11 @@ You can run the JAR file:
 $ java -jar target/shoppingcartapp-v1.jar
 ```
 
+spring-boot app deployment with port cmd:
+```bash
+java -Dserver.port=8888 -jar target/my-application-jar-path.jar
+```
+
 ### Maven
 
 #### Using the Maven Plugin
